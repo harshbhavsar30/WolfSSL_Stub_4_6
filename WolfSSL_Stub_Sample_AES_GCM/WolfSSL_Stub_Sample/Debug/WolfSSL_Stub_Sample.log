@@ -1,0 +1,4 @@
+﻿  Main.cpp
+  Warning: For timing resistance / side-channel attack prevention consider using harden options
+D:\Work\WolfSSL_4_6_0\Git\WolfSSL_Stub-master_4_6\WolfSSL_Stub_Sample_AES_GCM\WolfSSL_Stub_Sample\Main.cpp(22,21): warning C4101: 'ctxDec': unreferenced local variable
+  WolfSSL_Stub_Sample.vcxproj -> D:\Work\WolfSSL_4_6_0\Git\WolfSSL_Stub-master_4_6\WolfSSL_Stub_Sample_AES_GCM\Debug\WolfSSL_Stub_Sample.exe
